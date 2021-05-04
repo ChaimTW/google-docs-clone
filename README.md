@@ -9,6 +9,7 @@ https://discobyngo.com
 * Node
 * Socket.io
 * Quill
+* React Router DOM
 
 ## Hosting
 * **Frontend:** Netlify
