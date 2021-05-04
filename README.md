@@ -2,7 +2,7 @@
 > Work together in the same document simultaneously
 
 ## Demo
-https://discobyngo.com
+https://react-google-docs-clone.netlify.app
 
 ## Libraries used
 * ReactJS
