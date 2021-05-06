@@ -1,4 +1,4 @@
-# Disco Byngo
+# Google Docs Clone
 > Work together in the same document simultaneously
 
 ## Demo
